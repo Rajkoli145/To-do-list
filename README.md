@@ -2,6 +2,8 @@
 
 A modern, responsive web-based to-do list application built with HTML, CSS, and vanilla JavaScript. This application provides a clean, intuitive interface for managing daily tasks with advanced features like local storage persistence, task filtering, and comprehensive validation.
 
+**[Live Demo](https://rajkoli145.github.io/To-do-list/)** | **[GitHub Repository](https://github.com/Rajkoli145/To-do-list.git)**
+
 ## 🌟 Features
 
 ### Core Functionality
